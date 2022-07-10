@@ -1,0 +1,19 @@
+DISCLAIMER
+
+We request that you include the following acknowledgment and reference: 
+
+"We acknowledge the free use of environmental data provided by DLR (Deutsches Zentrum für Luft- und Raumfahrt e.V)."
+
+Reference: "Erbertseder, Thilo; Mittelstädt, Lisa; Gilardi, Lorenza; Traidl-Hoffmann, Claudia; Hachinger, Stephan and Bittner, Michael. (2021). Bioklimatisches Informationssystem Bayern: ein Service der UFS (Schlussbericht zum Forschungsvorhaben)." 
+
+The publication can be found here: https://www.researchgate.net/publication/356597905_Bioklimatisches_Informationssystem_Bayern_ein_Service_der_UFS_Schlussbericht_zum_Forschungsvorhaben 
+
+
+We refer to the terms and conditions defined here
+
+https://www.alpendac.eu/bioclis 
+https://www.alpendac.eu/eshape 
+
+The data was prepared in the frame of the H2020 project e-shape funded by the European Commission under grant agreement No. 820852 and by the DLR project "Umweltstressoren und Gesundheit".
+
+Weßling, 28. June 2022
