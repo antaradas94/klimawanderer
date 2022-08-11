@@ -29,7 +29,10 @@ A look at the heat data of Nürnberg based as of 05.07.2022. This map was made w
 
 
 ## Team Klimawanderer 
-Amelie<br/ >
+Amelie
+
 [Antara](https://github.com/antaradas94) <br />
+
 [Dieu](https://github.com/dieunik) <br />
+
 [Ira](https://github.com/Ira-Sim/) <br />
